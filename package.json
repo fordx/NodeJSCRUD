@@ -1,0 +1,19 @@
+{
+  "name": "nodejscrud",
+  "version": "1.0.0",
+  "description": "crud exemplo",
+  "main": "ProdutosWeb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fordx/NodeJSCRUD.git"
+  },
+  "author": "alvaro camara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fordx/NodeJSCRUD/issues"
+  },
+  "homepage": "https://github.com/fordx/NodeJSCRUD#readme"
+}
